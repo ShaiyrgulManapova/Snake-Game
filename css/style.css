@@ -51,18 +51,18 @@
 .head {
 	background-color: #8a3e25;
 	border: 2px solid #fff;
-	border-radius: 9px;
+	/* border-radius: 9px; */
 	transform: scale(1.02);
 }
 
 .snake {
 	background-color: #e77d04;
 	border: .25vmin solid #fff;
-	border-radius: 12px;
+	/* border-radius: 12px; */
 }
 
 .food {
 	background-color: #469b46;
 	border: .25vmin solid #fff;
-	border-radius: 8px;
+	/* border-radius: 8px; */
 }
