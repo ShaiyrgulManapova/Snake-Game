@@ -17,8 +17,8 @@
 
 #board {
 	background: linear-gradient(#f0e3ce , #96999b );
-	width: 50%;
-	height: 10rem;
+	width: 90vmin;
+	height: 92vmin;
 	border: 2px solid #fff;
 	border-radius: 20px;
 	display: grid;
@@ -28,6 +28,10 @@
 
 .head {
 	background-color: red;
+}
+
+.snake {
+	background-color: purple;
 }
 
 .food {
